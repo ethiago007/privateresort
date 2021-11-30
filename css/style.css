@@ -8,6 +8,22 @@ h1 {
 p {
     font-style: italic;
     background-color: black;
-    color: blanchedalmond;
+    color: chocolate;
+    font-size: 50px;
+}
+ol {
+    background-color: burlywood;
+    color: darkgreen;
+}
+body {
+    background-color: paleturquoise;
+}
+a {
+    color: black;
 }
 
+b {
+    background-color: crimson;
+    color: dimgray;
+    font-style: italic;
+}
